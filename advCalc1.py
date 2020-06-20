@@ -14,7 +14,7 @@
 #          Okay, the output is 7
 #          Do you want to calculate anything else? [y|n] 'n'
 #          Okay, bye bye :)
-def advCalc():
+def advCalc1():
   while True: 
     expression = input("Please enter and expression to calculate: ")
     ls = []
